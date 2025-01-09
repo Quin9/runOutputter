@@ -1,0 +1,17 @@
+{
+  "type": "module",
+  "name": "runoutputter",
+  "version": "1.0.0",
+  "description": "",
+  "main": "outputter.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.7.9",
+    "exceljs": "^4.4.0",
+    "p-limit": "^6.2.0"
+  }
+}
